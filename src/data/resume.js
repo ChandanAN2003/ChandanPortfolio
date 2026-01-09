@@ -61,7 +61,7 @@ export const resumeData = {
       tech: ['AWS Lambda', 'API Gateway', 'DynamoDB', 'Amplify'],
       category: 'Cloud',
       preview: 'Serverless computation stack paired with DynamoDB persistence.',
-      url: 'https://example.com/math-platform',
+      url: 'https://dev.dmcyt7sm4leyg.amplifyapp.com/',
     },
     {
       id: 'placement-portal',
@@ -73,7 +73,7 @@ export const resumeData = {
       tech: ['React', 'Python', 'MySQL', 'Google Gemini API', 'Flask-Mail'],
       category: 'AI/Automation',
       preview: 'AI-augmented placement journey with live analytics.',
-      url: 'https://example.com/placement-portal',
+      url: 'https://smart-campus-placement-portal.onrender.com/',
     },
   ],
   experience: [
